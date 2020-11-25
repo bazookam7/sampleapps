@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/src/main/cpp/CMakeLists.txt",
+    "/home/rajat/Android/Sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/home/rajat/Android/Sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/home/rajat/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/.cxx/cmake/release/x86\" clean"
+  ],
+  "buildTargetsCommand": "/home/rajat/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/.cxx/cmake/release/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "hello-aaudio-Release-x86": {
+      "artifactName": "hello-aaudio",
+      "buildCommand": "/home/rajat/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/.cxx/cmake/release/x86\" hello-aaudio",
+      "abi": "x86",
+      "output": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/build/intermediates/cmake/release/obj/x86/libhello-aaudio.so",
+      "runtimeFiles": []
+    }
+  }
+}

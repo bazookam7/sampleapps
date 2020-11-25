@@ -1,0 +1,3 @@
+/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/echo.dir

@@ -1,0 +1,7 @@
+Executable : /home/rajat/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/.cxx/cmake/debug/armeabi-v7a
+hello-aaudio
+jvmArgs : 
+

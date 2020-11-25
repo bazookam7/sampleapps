@@ -1,0 +1,15 @@
+# ninja log v5
+1	22	1606307378	CMakeFiles/hello-aaudio.dir/home/rajat/Downloads/android-audio-high-performance-master/debug-utils/trace.cpp.o	4cd316e3bcfa8d4
+1	331	1606307378	CMakeFiles/hello-aaudio.dir/home/rajat/Downloads/android-audio-high-performance-master/aaudio/common/audio_common.cpp.o	8a40c159628fb7c6
+0	356	1606307378	CMakeFiles/hello-aaudio.dir/jni_bridge.cpp.o	b93ac3d74466d2e4
+0	483	1606307379	CMakeFiles/hello-aaudio.dir/PlayAudioEngine1.cpp.o	cd37245a1be0d5a8
+0	504	1606307379	CMakeFiles/hello-aaudio.dir/PlayAudioEngine.cpp.o	72576435ee63d831
+504	518	1606307379	/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/build/intermediates/cmake/debug/obj/x86/libhello-aaudio.so	54695d908f61218c
+0	257	1606307508	CMakeFiles/hello-aaudio.dir/jni_bridge.cpp.o	b93ac3d74466d2e4
+257	273	1606307508	/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/build/intermediates/cmake/debug/obj/x86/libhello-aaudio.so	54695d908f61218c
+1	243	1606312178	CMakeFiles/hello-aaudio.dir/jni_bridge.cpp.o	b93ac3d74466d2e4
+1	366	1606312178	CMakeFiles/hello-aaudio.dir/PlayAudioEngine.cpp.o	72576435ee63d831
+1	381	1606312178	CMakeFiles/hello-aaudio.dir/PlayAudioEngine1.cpp.o	cd37245a1be0d5a8
+381	394	1606312178	/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/build/intermediates/cmake/debug/obj/x86/libhello-aaudio.so	54695d908f61218c
+0	253	1606312242	CMakeFiles/hello-aaudio.dir/jni_bridge.cpp.o	b93ac3d74466d2e4
+253	266	1606312242	/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/build/intermediates/cmake/debug/obj/x86/libhello-aaudio.so	54695d908f61218c

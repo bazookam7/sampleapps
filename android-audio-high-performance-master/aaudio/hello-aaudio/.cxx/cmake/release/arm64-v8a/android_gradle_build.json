@@ -1,0 +1,63 @@
+{
+  "stringTable": {
+    "0": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/.cxx/cmake/release/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android28 --gcc-toolchain=/home/rajat/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/rajat/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dhello_aaudio_EXPORTS -I/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/src/main/cpp/../../../../common -I/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/src/main/cpp/../../../../../debug-utils -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -Wall -Werror -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/src/main/cpp/CMakeLists.txt",
+    "/home/rajat/Android/Sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/home/rajat/Android/Sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/home/rajat/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/.cxx/cmake/release/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/home/rajat/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/.cxx/cmake/release/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "hello-aaudio-Release-arm64-v8a": {
+      "buildCommand": "/home/rajat/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/.cxx/cmake/release/arm64-v8a\" hello-aaudio",
+      "buildType": "release",
+      "toolchain": "3752110329",
+      "abi": "arm64-v8a",
+      "artifactName": "hello-aaudio",
+      "files": [
+        {
+          "src": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/src/main/cpp/PlayAudioEngine.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/src/main/cpp/PlayAudioEngine1.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/src/main/cpp/jni_bridge.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/rajat/Downloads/android-audio-high-performance-master/debug-utils/trace.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/common/audio_common.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/build/intermediates/cmake/release/obj/arm64-v8a/libhello-aaudio.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "3752110329": {
+      "cppCompilerExecutable": "/home/rajat/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

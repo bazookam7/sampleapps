@@ -1,0 +1,7 @@
+# ninja log v5
+0	14	1606306939	CMakeFiles/echo.dir/AudioEffect.cpp.o	8415f3024c3d9f58
+1	26	1606306939	CMakeFiles/echo.dir/home/rajat/Downloads/android-audio-high-performance-master/debug-utils/trace.cpp.o	9bfdaf814d8c8b49
+0	491	1606306940	CMakeFiles/echo.dir/jni_bridge.cpp.o	a8bd48c217857420
+2	505	1606306940	CMakeFiles/echo.dir/home/rajat/Downloads/android-audio-high-performance-master/aaudio/common/audio_common.cpp.o	a7a9d3deb39b9e3
+0	635	1606306940	CMakeFiles/echo.dir/EchoAudioEngine.cpp.o	e6d8b1d401bf4fd3
+635	662	1606306940	/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	3f08feb8c87276a5

@@ -1,0 +1,63 @@
+{
+  "stringTable": {
+    "0": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/rajat/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/rajat/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Decho_EXPORTS -I/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/../../../../common -I/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/../../../../../debug-utils -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/CMakeLists.txt",
+    "/home/rajat/Android/Sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/home/rajat/Android/Sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/home/rajat/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/home/rajat/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "echo-Debug-armeabi-v7a": {
+      "buildCommand": "/home/rajat/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/.cxx/cmake/debug/armeabi-v7a\" echo",
+      "buildType": "debug",
+      "toolchain": "3752110329",
+      "abi": "armeabi-v7a",
+      "artifactName": "echo",
+      "files": [
+        {
+          "src": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/EchoAudioEngine.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/jni_bridge.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/AudioEffect.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/rajat/Downloads/android-audio-high-performance-master/debug-utils/trace.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/common/audio_common.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/build/intermediates/cmake/debug/obj/armeabi-v7a/libecho.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "3752110329": {
+      "cppCompilerExecutable": "/home/rajat/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,31 @@
+[
+{
+  "directory": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/.cxx/cmake/release/arm64-v8a",
+  "command": "/home/rajat/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --gcc-toolchain=/home/rajat/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/rajat/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Decho_EXPORTS -I/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/../../../../common -I/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/../../../../../debug-utils  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/echo.dir/EchoAudioEngine.cpp.o -c /home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/EchoAudioEngine.cpp",
+  "file": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/EchoAudioEngine.cpp"
+},
+
+{
+  "directory": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/.cxx/cmake/release/arm64-v8a",
+  "command": "/home/rajat/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --gcc-toolchain=/home/rajat/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/rajat/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Decho_EXPORTS -I/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/../../../../common -I/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/../../../../../debug-utils  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/echo.dir/jni_bridge.cpp.o -c /home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/jni_bridge.cpp",
+  "file": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/jni_bridge.cpp"
+},
+
+{
+  "directory": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/.cxx/cmake/release/arm64-v8a",
+  "command": "/home/rajat/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --gcc-toolchain=/home/rajat/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/rajat/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Decho_EXPORTS -I/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/../../../../common -I/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/../../../../../debug-utils  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/echo.dir/AudioEffect.cpp.o -c /home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/AudioEffect.cpp",
+  "file": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/AudioEffect.cpp"
+},
+
+{
+  "directory": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/.cxx/cmake/release/arm64-v8a",
+  "command": "/home/rajat/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --gcc-toolchain=/home/rajat/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/rajat/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Decho_EXPORTS -I/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/../../../../common -I/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/../../../../../debug-utils  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/echo.dir/home/rajat/Downloads/android-audio-high-performance-master/debug-utils/trace.cpp.o -c /home/rajat/Downloads/android-audio-high-performance-master/debug-utils/trace.cpp",
+  "file": "/home/rajat/Downloads/android-audio-high-performance-master/debug-utils/trace.cpp"
+},
+
+{
+  "directory": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/.cxx/cmake/release/arm64-v8a",
+  "command": "/home/rajat/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --gcc-toolchain=/home/rajat/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/rajat/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Decho_EXPORTS -I/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/../../../../common -I/home/rajat/Downloads/android-audio-high-performance-master/aaudio/echo/src/main/cpp/../../../../../debug-utils  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/echo.dir/home/rajat/Downloads/android-audio-high-performance-master/aaudio/common/audio_common.cpp.o -c /home/rajat/Downloads/android-audio-high-performance-master/aaudio/common/audio_common.cpp",
+  "file": "/home/rajat/Downloads/android-audio-high-performance-master/aaudio/common/audio_common.cpp"
+}
+]

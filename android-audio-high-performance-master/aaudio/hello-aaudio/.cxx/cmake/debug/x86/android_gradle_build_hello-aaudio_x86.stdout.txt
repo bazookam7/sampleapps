@@ -1,0 +1,3 @@
+ninja: Entering directory `/home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/.cxx/cmake/debug/x86'
+[1/2] Building CXX object CMakeFiles/hello-aaudio.dir/jni_bridge.cpp.o
+[2/2] Linking CXX shared library /home/rajat/Downloads/android-audio-high-performance-master/aaudio/hello-aaudio/build/intermediates/cmake/debug/obj/x86/libhello-aaudio.so
